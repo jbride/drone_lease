@@ -11,6 +11,14 @@
     <repository>
       <include>true</include>
       <metadata>
+        <id>repo-rl658fTDTfPV8JhQ</id>
+        <url>http://nexus.pam-7-tools-user2.svc:8081/content/groups/public/</url>
+        <source>SETTINGS</source>
+      </metadata>
+    </repository>
+    <repository>
+      <include>true</include>
+      <metadata>
         <id>jboss-public-repository-group</id>
         <url>https://repository.jboss.org/nexus/content/groups/public/</url>
         <source>PROJECT</source>
@@ -22,14 +30,6 @@
         <id>local</id>
         <url>/home/jboss/.m2/repository</url>
         <source>LOCAL</source>
-      </metadata>
-    </repository>
-    <repository>
-      <include>true</include>
-      <metadata>
-        <id>repo-rl658fTDTfPV8JhQ</id>
-        <url>http://nexus.pam-7-tools-user2.svc:8081/content/groups/public/</url>
-        <source>SETTINGS</source>
       </metadata>
     </repository>
   </repositories>
