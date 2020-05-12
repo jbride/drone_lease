@@ -1,0 +1,1 @@
+{"id":"07609500-54f0-41cc-94b5-1f77e56135fb","name":"Drone_Lease_Task-taskform","model":{"taskName":"Task","processId":"DRONE_LEASE","name":"task","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":3,"style":"FLUID","layoutProperties":{},"rows":[]}}
