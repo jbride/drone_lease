@@ -39,7 +39,7 @@
   <bpmn2:itemDefinition id="__A0F0512C-0972-46EC-A3D5-DD68D4718652_NotCompletedReassignInputXItem" structureRef="Object"/>
   <bpmn2:itemDefinition id="__A0F0512C-0972-46EC-A3D5-DD68D4718652_NotStartedNotifyInputXItem" structureRef="Object"/>
   <bpmn2:itemDefinition id="__A0F0512C-0972-46EC-A3D5-DD68D4718652_NotCompletedNotifyInputXItem" structureRef="Object"/>
-  <bpmn2:process id="FAA_DRONE_LEASE" drools:packageName="com.redhat.naps" drools:version="1.0" drools:adHoc="false" name="FAA_DRONE_LEASE" isExecutable="true">
+  <bpmn2:process id="DRONE_LEASE" drools:packageName="com.redhat.naps" drools:version="1.0" drools:adHoc="false" name="DRONE_LEASE" isExecutable="true">
     <bpmn2:property id="funding_code" itemSubjectRef="_funding_codeItem" name="funding_code"/>
     <bpmn2:property id="reconciliation" itemSubjectRef="_reconciliationItem" name="reconciliation"/>
     <bpmn2:property id="updates" itemSubjectRef="_updatesItem" name="updates"/>
@@ -450,7 +450,7 @@ Complete]]></drools:metaValue>
     </bpmn2:exclusiveGateway>
   </bpmn2:process>
   <bpmndi:BPMNDiagram id="_oW3QVo79EeqNHMdQnm7oAQ">
-    <bpmndi:BPMNPlane id="_oW3QV479EeqNHMdQnm7oAQ" bpmnElement="FAA_DRONE_LEASE">
+    <bpmndi:BPMNPlane id="_oW3QV479EeqNHMdQnm7oAQ" bpmnElement="DRONE_LEASE">
       <bpmndi:BPMNShape id="shape__B5771C2F-5AFB-4E7E-995E-DA8668A9DCDD" bpmnElement="_B5771C2F-5AFB-4E7E-995E-DA8668A9DCDD">
         <dc:Bounds height="56.0" width="56.0" x="970.0" y="1090.0"/>
       </bpmndi:BPMNShape>
