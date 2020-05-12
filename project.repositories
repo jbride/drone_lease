@@ -27,7 +27,7 @@
     <repository>
       <include>true</include>
       <metadata>
-        <id>repo-2aPaF46UU2AH0lk0</id>
+        <id>repo-rl658fTDTfPV8JhQ</id>
         <url>http://nexus.pam-7-tools-user2.svc:8081/content/groups/public/</url>
         <source>SETTINGS</source>
       </metadata>
